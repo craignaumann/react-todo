@@ -1,0 +1,29 @@
+.todo-content {
+	text-align: center;
+}
+
+.root {
+	background: #e2e1e0;
+	width: 100vw;
+	height: 100vh;
+  text-align: center;
+}
+
+.todo-app {
+	background: white;
+	margin: 1rem;
+	border-radius: 2px;
+  display: inline-block;
+}
+
+.todo-list {
+  list-style-type: none;
+}
+
+.todo-list-item {
+
+}
+
+.todo-done {
+	text-decoration: line-through
+}
